@@ -1,7 +1,5 @@
 Project Setup Guide
 
-This guide provides simple steps to set up and run your project.
-
 Requirements
 
    Python 3.x
